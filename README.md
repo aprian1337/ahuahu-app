@@ -1,2 +1,1 @@
-# Ahuahu App
-Mulai aja dulu :)
+#Latlong
